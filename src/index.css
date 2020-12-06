@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.hashim{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: auto;
+  width: 60%;
+  height: 100%;
+  /* border: 3px solid green; */
+  padding: 300px;
+}
+.button
+{
+  line-height: 24px;
+  padding: 0 20px;
+  background: #9b9b9b;
+  border: 2px solid #ecf0f1;
+  outline: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+  cursor:pointer;
+}
